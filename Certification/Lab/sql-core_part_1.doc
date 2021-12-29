@@ -1,3 +1,0 @@
-Netsh interface ipv4 set address "Ethernet" static 10.10.10.60
-Netsh interface ipv4 set dnsservers "Ethernet" static 10.10.10.10 primary
-netdom renamecomputer %computername% /newname:SQL-CORE

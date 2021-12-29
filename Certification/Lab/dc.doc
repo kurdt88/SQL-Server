@@ -1,2 +1,0 @@
-Netsh interface ipv4 set address "Ethernet" static 10.10.10.10
-netdom renamecomputer %computername% /newname:DC
